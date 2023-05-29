@@ -1,4 +1,5 @@
 # STEM-challenge-with-Greenlight-for-Girls-G4G
+![StemG4G](https://github.com/YoshaM09/STEM-challenge-with-Greenlight-for-Girls-G4G-/assets/105993890/cec41c7c-40d8-4765-80ac-3cf9f9b159f2)
 
 ### Purpose: 
 To create an impact and inspire young children to pursue STEM subjects.
